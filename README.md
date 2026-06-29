@@ -58,17 +58,19 @@ The project grows one dependable step at a time:
 
 ## The stack
 
-Commodity, widely available, and approachable for newcomers:
+Commodity, widely available, and approachable for newcomers — and deliberately portable, so readers
+can follow along on the hardware and operating system they already have:
 
-- **Hardware:** Arduino / ESP32-class boards with a low-cost temperature–humidity sensor
-- **Host:** small, dependency-light Python scripts
-- **Cloud:** a free-tier cloud dashboard, with an open-source alternative noted throughout
+- **Hardware:** runs across common microcontroller platforms — Arduino, ESP32, and other
+  Arduino-compatible boards — paired with an inexpensive temperature–humidity sensor.
+- **Host:** small, dependency-light Python scripts that run on Windows, macOS, and Linux.
+- **Cloud:** a free-tier cloud dashboard, with an open-source, self-hosted alternative noted throughout.
 
 ## Who it's for
 
-Construction professionals exploring IoT for the first time, students in construction, civil, and
-related engineering programs, and educators looking for a project-based path into connected
-construction systems.
+- **Construction professionals** exploring IoT for the first time.
+- **Students** in construction, civil, and related engineering programs. 
+- **Educators** looking for a project-based path into connected construction systems.
 
 ## Companion repository
 
