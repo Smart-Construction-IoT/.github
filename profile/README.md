@@ -24,6 +24,7 @@ and maintained monitoring system — the **Smart Jobsite Cloud Gateway**.
 ## The book
 
 *The Essential IoT Integration Handbook for Smart Construction*
+
 **Authors:** Aaron Costin · Kyle Morman · Janise McNair
 **Publisher:** Elsevier · *(edition / ISBN / year — forthcoming)*
 
@@ -69,13 +70,20 @@ can follow along on the hardware and operating system they already have:
 ## Who it's for
 
 - **Construction professionals** exploring IoT for the first time.
-- **Students** in construction, civil, and related engineering programs. 
+- **Students** in construction, civil, and related engineering programs.
 - **Educators** looking for a project-based path into connected construction systems.
 
 ## Companion repository
 
 The companion code repository accompanies the book and is made available to readers. Watch this space
 for the public release.
+
+## Credits
+
+The companion materials are created and maintained by:
+
+- **Aaron Costin** — lead author and maintainer
+- **Vikram Narre** — lab imagery and hardware testing
 
 ---
 
@@ -84,5 +92,8 @@ for the public release.
 *Smart construction starts with a single, trustworthy reading.*
 
 📫 **Contact:** *[ add a project or corresponding-author contact ]*
+
+© 2026 Aaron Costin and Vikram Narre. Companion materials for
+*The Essential IoT Integration Handbook for Smart Construction*; the book is © Elsevier.
 
 </div>
